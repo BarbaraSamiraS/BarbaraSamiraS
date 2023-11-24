@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
  <h1>Minhas Estatisticas:</h1>
  
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=BarbaraSamiraS&show_icons=true&theme=transparent" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=BarbaraSamiraS&show_icons=true&theme=transparent&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=BarbaraSamiraS&show_icons=true&locale=pt-br&theme=transparent" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=BarbaraSamiraS&show_icons=true&theme=transparent&locale=pt-br&layout=compact" />
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BarbaraSamiraS&theme=transparent&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&type=png](https://git.io/streak-stats)" />
  </div>
 
