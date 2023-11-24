@@ -23,9 +23,4 @@ You can click the Preview link to take a look at your changes.
  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,figma,blender,bootstrap,eclipse,ps,replit,vscode)](https://skillicons.dev)
 
-<br>
- <h1>Minhas Atividades no GitHub:</h1>
- 
-![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4287f5&height=120&section=footer"/>
